@@ -1,0 +1,14 @@
+.idea
+.DS_Stor
+e
+Thumbs.db
+npm-debug.log
+/bower_components
+/node_modules
+/vendor
+
+!/composer.json
+!/composer.lock
+!/.gitignore
+!/auth.json
+!/README.md
