@@ -1,0 +1,4 @@
+.nav-tabs li.active a{
+    border-bottom: 1px solid red;
+    color: red;
+}
