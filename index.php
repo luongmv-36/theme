@@ -51,8 +51,8 @@
                         </h4>
                         <h5>
                             <i class="fa fa-check-circle-o" style="color: #1C9A71;border-right:1px solid black; padding-right: 4px" aria-hidden="true"><small style="padding-left: 2px">Đang Tuyển</small></i>
-                            <code>PHP</code>
-                            <code>Java</code>
+                            <code>MNP</code>
+                            <code>LKJ</code>
                             <i class="fa fa-star-o faa-falling animated" style="border-left:1px solid black; padding-left: 4px";color:sandybrown"><small>Mới</small></i>
                         </h5>
                         <p>
@@ -91,8 +91,8 @@
                         </h4>
                         <h5>
                             <i class="fa fa fa-ban" style="color: #F0672F;border-right:1px solid black; padding-right: 4px" aria-hidden="true"><small style="padding-left: 2px">Đã Tuyển</small></i>
-                            <code>PHP</code>
-                            <code>Java</code>
+                            <code>ABC</code>
+                            <code>XYZ</code>
                             <i class="fa fa-star-o faa-falling animated" style="border-left:1px solid black; padding-left: 4px";color:sandybrown"><small>Mới</small></i>
                         </h5>
                         <p>
@@ -124,8 +124,143 @@
         </div>
         <div id="menu1" class="tab-pane fade">
             <h3>Menu 1</h3>
-            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-7">
+                <!--start-->
+                <div class="media item_works" style="padding-left: 20px">
+                    <div class="media-body">
+                        <h4 class="media-heading">
+                            <a href="#" style="color: black">Media Top</a>
+                            <i class="fa fa-circle-o faa-burst animated"></i>
+                        </h4>
+                        <h5>
+                            <i class="fa fa-check-circle-o" style="color: #1C9A71;border-right:1px solid black; padding-right: 4px" aria-hidden="true"><small style="padding-left: 2px">Đang Tuyển</small></i>
+                            <code>MNP</code>
+                            <code>LKJ</code>
+                            <i class="fa fa-star-o faa-falling animated" style="border-left:1px solid black; padding-left: 4px";color:sandybrown"><small>Mới</small></i>
+                        </h5>
+                        <p>
+                            <div class="">
+                                From shades of color to specific formularies, custom product attributes are essential when matching products to customer needs.
+                                Magento helps you quickly and easily showcase your unique product attributes and tap robust product bundling to grow your average order value.
+                                From shades of color to specific formularies, custom product attributes are essential when matching products to customer needs.
+                                Magento helps you quickly and easily showcase your unique product attributes and tap robust product bundling to grow your average order value.
+                            </div>
+                        </p>
+                        <span>
+                            <i class="fa fa-comment fa_icon" style="color: red" aria-hidden="true">129 Comment</i>
+                            <i class="fa fa-thumbs-up fa_icon" style="color: blue" aria-hidden="true">200 Like</i>
+                            <i class="fa fa-eye fa_icon" aria-hidden="true" style="color: darkgray">490 View</i>
+                            <i class="fa fa-clock-o fa_icon" style="color: grey" aria-hidden="true">20-10-2018</i>
+                            <a href="#" class="fa_read"><i class="fa fa-play-circle-o fa_icon" aria-hidden="true" title="Click vào để đọc tiếp tin này!">Đọc Tin...</i></a>
+                            <i class="fa fa-money fa_icon" style="float: right;color: olivedrab" aria-hidden="true"> <span class="label label-info">700$-1000$</span></i>
+                        </span>
+                    </div>
+                </div>
+                <!--and-->
+                        <!--start-->
+                        <div class="media item_works" style="padding-left: 20px">
+                            <div class="media-body">
+                                <h4 class="media-heading">
+                                    <a href="#" style="color: black">Media Top</a>
+                                    <i class="fa fa-circle-o faa-burst animated"></i>
+                                </h4>
+                                <h5>
+                                    <i class="fa fa-check-circle-o" style="color: #1C9A71;border-right:1px solid black; padding-right: 4px" aria-hidden="true"><small style="padding-left: 2px">Đang Tuyển</small></i>
+                                    <code>MNP</code>
+                                    <code>LKJ</code>
+                                    <i class="fa fa-star-o faa-falling animated" style="border-left:1px solid black; padding-left: 4px";color:sandybrown"><small>Mới</small></i>
+                                </h5>
+                                <p>
+                                <div class="">
+                                    From shades of color to specific formularies, custom product attributes are essential when matching products to customer needs.
+                                    Magento helps you quickly and easily showcase your unique product attributes and tap robust product bundling to grow your average order value.
+                                    From shades of color to specific formularies, custom product attributes are essential when matching products to customer needs.
+                                    Magento helps you quickly and easily showcase your unique product attributes and tap robust product bundling to grow your average order value.
+                                </div>
+                                </p>
+                        <span>
+                            <i class="fa fa-comment fa_icon" style="color: red" aria-hidden="true">129 Comment</i>
+                            <i class="fa fa-thumbs-up fa_icon" style="color: blue" aria-hidden="true">200 Like</i>
+                            <i class="fa fa-eye fa_icon" aria-hidden="true" style="color: darkgray">490 View</i>
+                            <i class="fa fa-clock-o fa_icon" style="color: grey" aria-hidden="true">20-10-2018</i>
+                            <a href="#" class="fa_read"><i class="fa fa-play-circle-o fa_icon" aria-hidden="true" title="Click vào để đọc tiếp tin này!">Đọc Tin...</i></a>
+                            <i class="fa fa-money fa_icon" style="float: right;color: olivedrab" aria-hidden="true"> <span class="label label-info">700$-1000$</span></i>
+                        </span>
+                            </div>
+                        </div>
+                        <!--and-->
+                        <!--start-->
+                        <div class="media item_works" style="padding-left: 20px">
+                            <div class="media-body">
+                                <h4 class="media-heading">
+                                    <a href="#" style="color: black">Media Top</a>
+                                    <i class="fa fa-circle-o faa-burst animated"></i>
+                                </h4>
+                                <h5>
+                                    <i class="fa fa-check-circle-o" style="color: #1C9A71;border-right:1px solid black; padding-right: 4px" aria-hidden="true"><small style="padding-left: 2px">Đang Tuyển</small></i>
+                                    <code>MNP</code>
+                                    <code>LKJ</code>
+                                    <i class="fa fa-star-o faa-falling animated" style="border-left:1px solid black; padding-left: 4px";color:sandybrown"><small>Mới</small></i>
+                                </h5>
+                                <p>
+                                <div class="">
+                                    From shades of color to specific formularies, custom product attributes are essential when matching products to customer needs.
+                                    Magento helps you quickly and easily showcase your unique product attributes and tap robust product bundling to grow your average order value.
+                                    From shades of color to specific formularies, custom product attributes are essential when matching products to customer needs.
+                                    Magento helps you quickly and easily showcase your unique product attributes and tap robust product bundling to grow your average order value.
+                                </div>
+                                </p>
+                        <span>
+                            <i class="fa fa-comment fa_icon" style="color: red" aria-hidden="true">129 Comment</i>
+                            <i class="fa fa-thumbs-up fa_icon" style="color: blue" aria-hidden="true">200 Like</i>
+                            <i class="fa fa-eye fa_icon" aria-hidden="true" style="color: darkgray">490 View</i>
+                            <i class="fa fa-clock-o fa_icon" style="color: grey" aria-hidden="true">20-10-2018</i>
+                            <a href="#" class="fa_read"><i class="fa fa-play-circle-o fa_icon" aria-hidden="true" title="Click vào để đọc tiếp tin này!">Đọc Tin...</i></a>
+                            <i class="fa fa-money fa_icon" style="float: right;color: olivedrab" aria-hidden="true"> <span class="label label-info">700$-1000$</span></i>
+                        </span>
+                            </div>
+                        </div>
+                        <!--and-->
+                </div>
+                    <div class="col-sm-5 right_content">
+                        <!--start-->
+                        <div class="media item_works" style="padding-left: 20px">
+                            <div class="media-body">
+                                <h4 class="media-heading">
+                                    <a href="#" style="color: black">Media Top</a>
+                                    <i class="fa fa-circle-o faa-burst animated"></i>
+                                </h4>
+                                <h5>
+                                    <i class="fa fa-check-circle-o" style="color: #1C9A71;border-right:1px solid black; padding-right: 4px" aria-hidden="true"><small style="padding-left: 2px">Đang Tuyển</small></i>
+                                    <code>MNP</code>
+                                    <code>LKJ</code>
+                                    <i class="fa fa-star-o faa-falling animated" style="border-left:1px solid black; padding-left: 4px";color:sandybrown"><small>Mới</small></i>
+                                </h5>
+                                <p>
+                                <div class="">
+                                    From shades of color to specific formularies, custom product attributes are essential when matching products to customer needs.
+                                    Magento helps you quickly and easily showcase your unique product attributes and tap robust product bundling to grow your average order value.
+                                    From shades of color to specific formularies, custom product attributes are essential when matching products to customer needs.
+                                    Magento helps you quickly and easily showcase your unique product attributes and tap robust product bundling to grow your average order value.
+                                </div>
+                                </p>
+                        <span>
+                            <i class="fa fa-comment fa_icon" style="color: red" aria-hidden="true">129 Comment</i>
+                            <i class="fa fa-thumbs-up fa_icon" style="color: blue" aria-hidden="true">200 Like</i>
+                            <i class="fa fa-eye fa_icon" aria-hidden="true" style="color: darkgray">490 View</i>
+                            <i class="fa fa-clock-o fa_icon" style="color: grey" aria-hidden="true">20-10-2018</i>
+                            <a href="#" class="fa_read"><i class="fa fa-play-circle-o fa_icon" aria-hidden="true" title="Click vào để đọc tiếp tin này!">Đọc Tin...</i></a>
+                            <i class="fa fa-money fa_icon" style="float: right;color: olivedrab" aria-hidden="true"> <span class="label label-info">700$-1000$</span></i>
+                        </span>
+                            </div>
+                        </div>
+                        <!--and-->
+                    </div>
+            </div>
         </div>
+            </div>
         <div id="menu2" class="tab-pane fade">
             <h3>Menu 2</h3>
             <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
@@ -158,5 +293,10 @@
         background: #FFFFFF;
         border-radius: 5px;
         border: 1px solid #dddfe2;
+    }
+    @media only screen and (max-width: 767px){
+        div.right_content{
+            display: none;
+        }
     }
 </style>
