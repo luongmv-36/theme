@@ -326,12 +326,112 @@
             </div>
         <div id="menu2" class="tab-pane fade">
             <h3>Menu 2</h3>
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-7" style="margin-bottom: 10px">
+                        <!--start-->
+                        <div class="media item_works" style="padding-left: 20px">
+                            <div class="media-body">
+                                <h4 class="media-heading">
+                                </h4>
+                                <h5>
+                                    <i class="fa fa-clock-o fa_icon" style="color: grey" aria-hidden="true"><small>20-10-2018</small></i>
+                                    <i class="fa fa-star-o faa-falling animated" style="border-left:1px solid black; padding-left: 4px";color:sandybrown"><small>Mới</small></i>
+                                </h5>
+                                <p>
+                                <div class="image_che">
+                                    <img class="img-responsive" src="https://www.w3schools.com/w3images/fjords.jpg" alt="Chania" width="600px" height="400px">
+                                </div>
+                                </p>
+                                <span>
+                            <i class="fa fa-comment fa_icon" style="color: red" aria-hidden="true">129 Comment</i>
+                            <i class="fa fa-thumbs-up fa_icon" style="color: blue" aria-hidden="true">200 Like</i>
+                        </span>
+                            </div>
+                        </div>
+                        <!--and-->
+                        <!--start-->
+                        <div class="media item_works" style="padding-left: 20px">
+                            <div class="media-body">
+                                <h4 class="media-heading">
+                                </h4>
+                                <h5>
+                                    <i class="fa fa-clock-o fa_icon" style="color: grey" aria-hidden="true"><small>20-10-2018</small></i>
+                                    <i class="fa fa-star-o faa-falling animated" style="border-left:1px solid black; padding-left: 4px";color:sandybrown"><small>Mới</small></i>
+                                </h5>
+                                <p>
+                                <div class="image_che">
+                                    <img class="img-responsive" src="https://www.w3schools.com/w3images/nature.jpg" alt="Chania" width="600px" height="400px">
+                                </div>
+                                </p>
+                                <span>
+                            <i class="fa fa-comment fa_icon" style="color: red" aria-hidden="true">129 Comment</i>
+                            <i class="fa fa-thumbs-up fa_icon" style="color: blue" aria-hidden="true">200 Like</i>
+                        </span>
+                            </div>
+                        </div>
+                        <!--and-->
+                        <!--start-->
+                        <div class="media item_works" style="padding-left: 20px">
+                            <div class="media-body">
+                                <h4 class="media-heading">
+                                </h4>
+                                <h5>
+                                    <i class="fa fa-clock-o fa_icon" style="color: grey" aria-hidden="true"><small>20-10-2018</small></i>
+                                    <i class="fa fa-star-o faa-falling animated" style="border-left:1px solid black; padding-left: 4px";color:sandybrown"><small>Mới</small></i>
+                                </h5>
+                                <p>
+                                <div class="image_che">
+                                    <img class="img-responsive" src="https://www.w3schools.com/w3images/lights.jpg" alt="Chania" width="600px"; height="400px">
+                                </div>
+                                </p>
+                                <span>
+                            <i class="fa fa-comment fa_icon" style="color: red" aria-hidden="true">129 Comment</i>
+                            <i class="fa fa-thumbs-up fa_icon" style="color: blue" aria-hidden="true">200 Like</i>
+                        </span>
+                            </div>
+                        </div>
+                        <!--and-->
+
+                    </div>
+                    <div class="col-sm-5 right_content">
+                        <!--start-->
+                        <div class="item_comment_right" style="padding-left: 20px">
+                            <div class="media-body">
+                                <h4 class="media-heading">
+                                    <a href="#" style="color: black">Media Top</a>
+                                </h4>
+                                <h5>
+                                    <i class="fa fa-check-circle-o" style="color: #1C9A71;border-right:1px solid black; padding-right: 4px" aria-hidden="true"><small style="padding-left: 2px">Đang Tuyển</small></i>
+                                </h5>
+                                <p>
+                                <div class="">
+                                    From shades of color to specific formularies, custom product attributes are essential when matching products to customer needs.
+                                </div>
+                                </p>
+                                <span>
+                            <i class="fa fa-clock-o fa_icon" style="color: grey" aria-hidden="true">20-10-2018</i>
+                            <a href="#" class="fa_read"><i class="fa fa-play-circle-o fa_icon" aria-hidden="true" title="Click vào để đọc tiếp tin này!">Đọc Tin...</i></a>
+                        </span>
+                            </div>
+                        </div>
+                        <hr class="hr_comment">
+                        <!--and-->
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
+
+
+</div>
+<div class="footer">
+    <p><a href="#" title="Liên Hệ">Copyright © 2018 luongmv</a></p>
 </div>
 
+
 </body>
+
 </html>
 <style>
     body {
@@ -371,5 +471,17 @@
     .hr_comment{
         margin-top: 1px;
         margin-bottom: 1px;
+    }
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #FAFAFA;
+        color: black;
+        text-align: center;
+    }
+    .footer a {
+        cursor: pointer;
     }
 </style>
